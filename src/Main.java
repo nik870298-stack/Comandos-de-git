@@ -15,6 +15,8 @@ public class Main {
         System.out.printf("git pull origin main - bajar cambios");
         System.out.printf("git switch -c - crear rama");
         System.out.printf("Comandos Git");
+        System.out.printf("ramadas");
+        System.out.printf("Comandos de git re pros 4k");
 
     }
 }
